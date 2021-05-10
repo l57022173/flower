@@ -8,8 +8,8 @@ headless: true
 # Order that this section will appear in.
 weight: 10
 
-title: aaaaabbbb ✏️ Blog Template
-subtitle: 'For [aaaaaasssss](https://wowchemy.com/)'
+title:  ✏️ 歡迎您
+subtitle: 'For [真好](https://yahoo.com/)'
 
 design:
   background:
